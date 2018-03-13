@@ -15,8 +15,8 @@ class DriveSession(OAuth2Session):
 
         # Get Authorization Code
         auth_url, state = self.authorization_url(auth_uri,
-                                                              access_type='offline',
-                                                              prompt='select_account')
+                                                 access_type='offline',
+                                                 prompt='select_account')
         print('Please go to {} and authorize acess'.format(auth_url))
         authorization_code = input('Enter code: ')
 
