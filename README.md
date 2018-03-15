@@ -7,6 +7,7 @@ CLI Tool to Push and pulls files using Google Drive API
 ### Informational and Lookup
 * [Mozilla MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
 * [Google Drive API REST Reference](https://developers.google.com/drive/v3/reference/)
+* [Python Tips](http://book.pythontips.com/en/latest/index.html)
 ### Used Modules/Codebases
 * [Requests](https://github.com/requests/requests)
 * [Requests-oauthlib](https://github.com/requests/requests-oauthlib)
