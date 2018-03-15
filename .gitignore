@@ -105,3 +105,6 @@ credential.py
 
 # test directory
 test/
+
+# token json file
+tokens.json
