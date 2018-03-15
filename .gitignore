@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#credential
+credential.py
+
+# test directory
+test/
