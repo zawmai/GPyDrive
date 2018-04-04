@@ -102,6 +102,7 @@ ENV/
 
 #credential
 credential.py
+credential.json
 
 # test directory
 test/
