@@ -109,3 +109,7 @@ test/
 
 # token json file
 tokens.json
+
+#configure
+configure.txt
+config.ini

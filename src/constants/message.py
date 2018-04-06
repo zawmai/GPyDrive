@@ -2,3 +2,4 @@ ENTER_PROMPT = "Please enter {}: "
 AUTH_URL_PROMPT = 'Please go to {} and authorize access'
 AUTH_CODE_PROMPT = 'Enter code: '
 INVALID_INPUT = "<Please enter a valid {}>"
+KEY_VALUE_PAIR = "{}: {}"
