@@ -85,7 +85,7 @@ class DriveSession(OAuth2Session):
 
 if __name__ == '__main__':
     s = DriveSession(pathname.CONFIG_PATH, pathname.TOKEN_PATH)
-    from list import list_all_files
+    from files import list_all_files
 
     q = {'fields': 'files(id,mimeType,name,parents)'}
     res = list_all_files(s, q)
