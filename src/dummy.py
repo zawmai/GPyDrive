@@ -21,7 +21,7 @@ if __name__ == "__main__":
 
     print(s.token)
 
-    from list import list_all_files
+    from files import list_all_files
 
     q = {'fields': 'files(id,mimeType,name,parents)'}
     res = list_all_files(s, q)
